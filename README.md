@@ -32,3 +32,12 @@ Click the badge below to open the notebook safely in Google Colab:
 
 ## 📂 Repository Structure
 
+---
+
+## 📬 Contact
+
+Feel free to connect or share feedback:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/shubhratchaursiya)
+
+---
